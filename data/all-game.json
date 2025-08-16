@@ -142,7 +142,7 @@
         "img": "smash-karts.png",
 		"status": 1,
         "order": 4
-    }
+    },
 	    {
         "slug": "2048",
         "title": "2048",
@@ -151,5 +151,5 @@
         "img": "2048.jpg",
 		"status": 1,
         "order": 17
-    },
+    }
 ]
