@@ -27,14 +27,14 @@
         "order": 3
     },
     {
-        "slug": "smash-karts",
-        "title": "Smash Karts",
-        "cat": "All, New",
-        "url": "https://smashkarts.io/",
-        "img": "smash-karts.png",
+        "slug": "bloxd-io",
+        "title": "Bloxd.io",
+        "cat": "All, New, Hot",
+        "url": "https://bloxd.io/",
+        "img": "bloxd-io.jpg",
 		"status": 1,
-        "order": 4
-    }
+        "order": 16
+    },
     {
         "slug": "ev-io",
         "title": "Ev.io",
@@ -134,32 +134,13 @@
 		"status": 1,
         "order": 15
     },
-
-	    {
-        "slug": "bloxd-io",
-        "title": "Bloxd.io",
-        "cat": "All, New, Hot",
-        "url": "https://bloxd.io/",
-        "img": "bloxd-io.jpg",
-		"status": 1,
-        "order": 16
-    },
-	    {
-        "slug": "2048",
-        "title": "2048",
-        "cat": "All, New",
-        "url": "https://play-2048.io/",
-        "img": "2048.jpg",
-		"status": 1,
-        "order": 17
-    },
-	    {
-        "slug": "Tetris",
-        "title": "Tetris",
+    {
+        "slug": "smash-karts",
+        "title": "Smash Karts",
         "cat": "All, New",
         "url": "https://smashkarts.io/",
-        "img": "tetris.jpg",
+        "img": "smash-karts.png",
 		"status": 1,
-        "order": 18
+        "order": 4
     }
 ]
