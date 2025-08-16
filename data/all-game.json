@@ -143,4 +143,13 @@
 		"status": 1,
         "order": 4
     }
+	    {
+        "slug": "2048",
+        "title": "2048",
+        "cat": "All, New",
+        "url": "https://play-2048.io/",
+        "img": "2048.jpg",
+		"status": 1,
+        "order": 17
+    },
 ]
